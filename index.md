@@ -49,7 +49,7 @@ Textuelles Structurées (Learning and Manipulating Structured Text Data Represen
 * [Github](https://github.com/ToineSayan)
 * [LinkedIn](https://www.linkedin.com/in/antoine-saillenfest-phd-513a0a40/)
 * [Google Scholar](https://scholar.google.com/citations?user=iehCMKgAAAAJ&hl=en)
-* [DPLB](https://dblp.org/pid/133/6082.html)
+* [DBLP](https://dblp.org/pid/133/6082.html)
 * [ORCID - id: 0009-0000-5709-9193](https://orcid.org/0009-0000-5709-9193)
   
 * [Twitter](https://twitter.com/toinesayan) (for personal stuff)
