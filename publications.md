@@ -3,6 +3,9 @@ layout: page
 title: Publications
 ---
 
+<!--# To appear
+* **[conference]** Plaud R., Perez-Lebel A., Labeau M., Saillenfest A., Bonald T. (2024). To Each Metric Its Decoding: Post-Hoc Optimal Decision Rules of Probabilistic Hierarchical Classifiers, In Proceedings of ICML 2025 - 42nd International Conference on Machine Learning.-->
+
 ## Published
 * **[conference]** Plaud R., Labeau M., Saillenfest A., Bonald T. (2024). [Revisiting Hierarchical Text Classification: Inference and Metrics](https://aclanthology.org/2024.conll-1.18/), In Proceedings of CoNLL 2024 - 28th Conference on Computational Natural Language Learning.
 * **[conference]** Lemberger, P., & Saillenfest, A. (2024). [Explaining Text Classifiers with Counterfactual Representations](https://ebooks.iospress.nl/doi/10.3233/FAIA240576). In Proceedings of ECAI 2024 - 27th European Conference on Artificial Intelligence.
