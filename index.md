@@ -33,14 +33,14 @@ This dataset was built from Wikivitals articles of level 5. It is a corpus of ~4
 
 ### PhD students
 
-* (2024, September - ...) [Roman Plaud](https://www.linkedin.com/in/roman-plaud-573298195/). _Apprentissage et Manipulation de Représentations de Données
+* (2024, September - ...) [Roman Plaud](https://romanplaud.github.io/). _Apprentissage et Manipulation de Représentations de Données
 Textuelles Structurées (Learning and Manipulating Structured Text Data Representations)_. Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
 
 ### Master's students
 
-* (2023) [Roman Plaud](https://www.linkedin.com/in/roman-plaud-573298195/). _Hierarchical Classification_. Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
+* (2023) [Roman Plaud](https://romanplaud.github.io/). _Hierarchical Classification_. Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
 
-* (2022) [Angelo Ortiz-Tandanzo](https://www.linkedin.com/in/angelo-ortiz-tandazo-77289aa7?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABa78MYBxvBTxIpmov_OUaivV57gn4ylE78&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B7c1rLp3wTt%2B5h7lbDrCJNw%3D%3D). _Word-Sense Disambiguation by Graph Analysis_. Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
+* (2022) [Angelo Ortiz-Tandanzo](https://angelo-ortiz.github.io/). _Word-Sense Disambiguation by Graph Analysis_. Co-supervision with [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html) and [Matthieu Labeau](https://www.telecom-paris.fr/matthieu-labeau).
 
 ### Teaching
 
@@ -51,8 +51,8 @@ Textuelles Structurées (Learning and Manipulating Structured Text Data Represen
 * [Github](https://github.com/ToineSayan)
 * [LinkedIn](https://www.linkedin.com/in/antoine-saillenfest-phd-513a0a40/)
 * [Google Scholar](https://scholar.google.com/citations?user=iehCMKgAAAAJ&hl=en)
-* [DBLP](https://dblp.org/pid/133/6082.html)
+* [dblp](https://dblp.org/pid/133/6082.html)
 * [ORCID - id: 0009-0000-5709-9193](https://orcid.org/0009-0000-5709-9193)
   
-* [Twitter](https://twitter.com/toinesayan) (for personal stuff)
-* [Instagram](https://www.instagram.com/toinesayan/) (for personal stuff)
+<!--* [Twitter](https://twitter.com/toinesayan) (for personal stuff)
+* [Instagram](https://www.instagram.com/toinesayan/) (for personal stuff)-->
