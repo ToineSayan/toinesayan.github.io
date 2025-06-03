@@ -16,7 +16,8 @@ Keywords: Deep Learning, NLP, Cognitive Sciences, Causality, Graphs
 
 ### Recent publications
 
-* Plaud R., Perez-Lebel A., Labeau M., Saillenfest A., Bonald T. (2025). [To Each Metric Its Decoding: Post-Hoc Optimal Decision Rules of Probabilistic Hierarchical Classifiers](https://icml.cc/virtual/2025/poster/46401), ICML 2025.
+* Plaud R., Perez-Lebel A., Labeau M., Saillenfest A., Bonald T. (2025). [To Each Metric Its Decoding: Post-Hoc Optimal Decision Rules of Probabilistic Hierarchical Classifiers](https://icml.cc/virtual/2025/poster/46401), ICML 2025.<br>
+**Preprint:** [arxiv](https://arxiv.org/abs/2506.01552)
 * Plaud R., Labeau M., Saillenfest A., Bonald T. (2024). [Revisiting Hierarchical Text Classification: Inference and Metrics](https://aclanthology.org/2024.conll-1.18/), CoNLL 2024.
 * Lemberger, P., & Saillenfest, A. (2024). [Explaining Text Classifiers with Counterfactual Representations](https://ebooks.iospress.nl/doi/10.3233/FAIA240576), ECAI 2024.
   
