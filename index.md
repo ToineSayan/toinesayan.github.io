@@ -16,7 +16,7 @@ Keywords: Deep Learning, NLP, Cognitive Sciences, Causality, Graphs
 
 ### Recent publications
 * Saillenfest A. & Lemberger P. (2025). [Nonlinear Concept Erasure: a Density Matching Approach](https://ebooks.iospress.nl/volumearticle/75989), Proceedings of ECAI 2025.<br>
-**Full version with appendices:** [arxiv](https://arxiv.org/abs/2507.12341)
+**Full version:** [arxiv](https://arxiv.org/abs/2507.12341)
 * Plaud R., Perez-Lebel A., Labeau M., Saillenfest A., Bonald T. (2025). [To Each Metric Its Decoding: Post-Hoc Optimal Decision Rules of Probabilistic Hierarchical Classifiers](https://icml.cc/virtual/2025/poster/46401), ICML 2025.<br>
 **Preprint:** [arxiv](https://arxiv.org/abs/2506.01552)
 * Plaud R., Labeau M., Saillenfest A., Bonald T. (2024). [Revisiting Hierarchical Text Classification: Inference and Metrics](https://aclanthology.org/2024.conll-1.18/), CoNLL 2024.
@@ -46,6 +46,7 @@ Textuelles Structurées (Learning and Manipulating Structured Text Data Represen
 
 ### Teaching
 
+* Introduction to AI and Data Science (2025) given as part of the seminar Thinking through Data & AI seminar [ESSEC Business School](https://www.essec.edu/) 
 * Machine Learning & Deep Learning. (2023) [ECE Lyon - MSc Data Engineer & Intelligence Artificielle](https://www.ece.fr/program/msc-data-engineer-intelligence-artificielle/)
 
 ## External links
