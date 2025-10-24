@@ -4,7 +4,8 @@ title: Publications
 ---
 
 ## Published
-* **[conference]** Saillenfest A. & Lemberger P. (2025). [Nonlinear Concept Erasure: a Density Matching Approach](https://arxiv.org/abs/2507.12341), to appear in Proceedings of ECAI 2025 - 28th European Conference on Artificial Intelligence.<br>
+* **[conference]** Saillenfest A. & Lemberger P. (2025). [Nonlinear Concept Erasure: a Density Matching Approach](https://ebooks.iospress.nl/volumearticle/75989), Proceedings of ECAI 2025 - 28th European Conference on Artificial Intelligence.<br>
+**Full version with appendices:** [arxiv](https://arxiv.org/abs/2507.12341)
 * **[conference]** Plaud R., Perez-Lebel A., Labeau M., Saillenfest A. & Bonald T. (2025). [To Each Metric Its Decoding: Post-Hoc Optimal Decision Rules of Probabilistic Hierarchical Classifiers](https://icml.cc/virtual/2025/poster/46401), In Proceedings of ICML 2025 - 42nd International Conference on Machine Learning. <br>
 **Other links:** [arxiv](https://arxiv.org/abs/2506.01552)
 * **[conference]** Plaud R., Labeau M., Saillenfest A. & Bonald T. (2024). [Revisiting Hierarchical Text Classification: Inference and Metrics](https://aclanthology.org/2024.conll-1.18/), In Proceedings of CoNLL 2024 - 28th Conference on Computational Natural Language Learning.
