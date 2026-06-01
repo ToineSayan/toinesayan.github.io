@@ -15,6 +15,7 @@ Keywords: Deep Learning, NLP, Cognitive Sciences, Causality, Graphs
 ## Research
 
 ### Recent publications
+* Plaud R., Perez-Lebel A., Saillenfest A., Bonald T., Le Morvan M., Varoquaux G. & Labeau M. (2026). [Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal Inference.](https://icml.cc/virtual/2026/poster/64815), ICML 2026. 
 * Saillenfest A. & Lemberger P. (2025). [Nonlinear Concept Erasure: a Density Matching Approach](https://ebooks.iospress.nl/volumearticle/75989), Proceedings of ECAI 2025.<br>
 **Full version:** [arxiv](https://arxiv.org/abs/2507.12341)
 * Plaud R., Perez-Lebel A., Labeau M., Saillenfest A., Bonald T. (2025). [To Each Metric Its Decoding: Post-Hoc Optimal Decision Rules of Probabilistic Hierarchical Classifiers](https://icml.cc/virtual/2025/poster/46401), ICML 2025.<br>
