@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Annulation de la Marche des Fiertés
+excerpt: "La Marche des Fiertés et le festival Solidays ont été annulés sur demande de la préfecture de police pour cause de canicule..."
 ---
 
 La Marche des Fiertés et le festival Solidays (qui collecte des fonds pour Solidarité SIDA) ont été annulés sur demande de la préfecture de police pour cause de canicule et en particulier de saturation des services hospitaliers. Ces deux événements font donc les frais d'une totale impréparation de la préfecture et de la casse méthodique des services publics (en particulier de santé) à grands coups de coupes budgétaires et de réduction des effectifs. Que l'on approuve ou non cette décision, qu'on la comprenne ou non, ces annulations posent problème. 
