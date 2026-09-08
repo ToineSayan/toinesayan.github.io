@@ -4,8 +4,8 @@ title: Publications
 ---
 
 ## Published
-* **[preprint]** Saillenfest, A. (2026). MUtE: A Dual Framework for Concept Erasure and Counterfactual Interventions
-* **[preprint]** Plaud R., Saillenfest A., Labeau M., Bonald T., Waegeman W. (2026). [Single-Query Black-Box Calibration Auditing via Logit Bias](https://arxiv.org/abs/2609.05125)
+* **[preprint]** Saillenfest, A. (2026). MUtE: A Dual Framework for Concept Erasure and Counterfactual Interventions.
+* **[preprint]** Plaud R., Saillenfest A., Labeau M., Bonald T., Waegeman W. (2026). [Single-Query Black-Box Calibration Auditing via Logit Bias](https://arxiv.org/abs/2609.05125).
 * **[conference]** Plaud R., Perez-Lebel A., Saillenfest A., Bonald T., Le Morvan M., Varoquaux G. & Labeau M. (2026). [Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal Inference.](https://icml.cc/virtual/2026/poster/64815), In Proceedings of ICML 2026 - 43rd International Conference on Machine Learning.<br>
 **Preprint:** [arxiv](https://arxiv.org/abs/2606.03332) 
 * **[conference]** Saillenfest A. & Lemberger P. (2025). [Nonlinear Concept Erasure: a Density Matching Approach](https://ebooks.iospress.nl/volumearticle/75989), Proceedings of ECAI 2025 - 28th European Conference on Artificial Intelligence.<br>
