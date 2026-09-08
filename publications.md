@@ -3,15 +3,15 @@ layout: page
 title: Publications
 ---
 
-## To appear
+## Published
+* **[preprint]** Saillenfest, A. (2026). MUtE: A Dual Framework for Concept Erasure and Counterfactual Interventions
+* **[preprint]** Plaud R., Saillenfest A., Labeau M., Bonald T., Waegeman W. (2026). [Single-Query Black-Box Calibration Auditing via Logit Bias](https://arxiv.org/abs/2609.05125)
 * **[conference]** Plaud R., Perez-Lebel A., Saillenfest A., Bonald T., Le Morvan M., Varoquaux G. & Labeau M. (2026). [Tailoring Strictly Proper Scoring Rules for Downstream Tasks: An Application to Causal Inference.](https://icml.cc/virtual/2026/poster/64815), In Proceedings of ICML 2026 - 43rd International Conference on Machine Learning.<br>
 **Preprint:** [arxiv](https://arxiv.org/abs/2606.03332) 
-
-## Published
 * **[conference]** Saillenfest A. & Lemberger P. (2025). [Nonlinear Concept Erasure: a Density Matching Approach](https://ebooks.iospress.nl/volumearticle/75989), Proceedings of ECAI 2025 - 28th European Conference on Artificial Intelligence.<br>
 **Full version:** [arxiv](https://arxiv.org/abs/2507.12341)
 * **[conference]** Plaud R., Perez-Lebel A., Labeau M., Saillenfest A. & Bonald T. (2025). [To Each Metric Its Decoding: Post-Hoc Optimal Decision Rules of Probabilistic Hierarchical Classifiers](https://icml.cc/virtual/2025/poster/46401), In Proceedings of ICML 2025 - 42nd International Conference on Machine Learning. <br>
-**Other links:** [arxiv](https://arxiv.org/abs/2506.01552)
+**Preprint:** [arxiv](https://arxiv.org/abs/2506.01552)
 * **[conference]** Plaud R., Labeau M., Saillenfest A. & Bonald T. (2024). [Revisiting Hierarchical Text Classification: Inference and Metrics](https://aclanthology.org/2024.conll-1.18/), In Proceedings of CoNLL 2024 - 28th Conference on Computational Natural Language Learning.
 * **[conference]** Lemberger P. & Saillenfest A. (2024). [Explaining Text Classifiers with Counterfactual Representations](https://ebooks.iospress.nl/doi/10.3233/FAIA240576). In Proceedings of ECAI 2024 - 27th European Conference on Artificial Intelligence. <br>
 **Full version:** [arxiv](https://arxiv.org/abs/2402.00711)
