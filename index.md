@@ -4,7 +4,7 @@ title: Home
 ---
 
 <p align="center">
-  <img src="{{ site.url }}/public/pictures/me/Antoine_Saillenfest_NB.png" width="25%" alt="Antoine Saillenfest">
+  <img src="{{ site.url }}/public/pictures/me/me_sun.png" width="25%" alt="Antoine Saillenfest">
 </p>
 
 I am a researcher at [onepoint](https://www.groupeonepoint.com/), a member of the [TALia laboratory](https://laboratoire-talia.telecom-paris.fr), which is a joint research unit between [Télécom Paris](https://www.telecom-paris.fr/) and onepoint.<br/>
